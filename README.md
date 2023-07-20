@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MohdRizal/MohdRizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Mohammad Rizal Rizwan 👋
+<p align="center"><img src="https://www.codewars.com/users/mohdrizal/badges/large%22/%3E<br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdrizal&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrizal&theme=monokai%22/%3E
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrizal&layout=compact&theme=monokai&langs_count=12%22/%3E<br />
+</p>
